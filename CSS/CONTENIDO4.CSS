@@ -1,0 +1,177 @@
+body{
+    margin: 0px;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+header{
+    margin-top: 20px;
+}
+.titulosh2{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    border-bottom: 3px black solid;
+}
+.contenh{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 170px;
+    align-items: center;
+}
+.navegacion a{
+    text-decoration:none ;
+    color: black;
+    margin-right: 22px;
+}
+.navegacion a:hover{
+    color: rgb(233, 116, 6);
+}
+.secimg img{
+    width: 100%;
+    margin-top: 20px;
+}
+.tar{
+    margin-bottom: 80px;
+    padding-top: 100px;
+}
+.card{
+    margin-top: 60px;
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    margin-bottom: 100px;
+}
+.card img{
+    margin: auto;
+    width: 400px;
+}
+.contmain{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.artmain{
+    width: 25%;
+}
+.contimgmain{
+    width: 70px;
+    margin: auto;
+}
+.contimgmain img{
+    width: 100%;
+}
+.textmain{
+    text-align: center;
+    padding: 7px;
+}
+.contblog{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.artblog{
+    width: 25%;
+    border: black 1px solid;
+    height: 490px ;
+}
+.artblog span{
+    color: rgb(233, 116, 6);
+    font-size: 15px;
+    font-style: italic;
+}
+.boton{
+    text-align: right;
+}
+.artblog img{
+    width: 100%;
+}
+.textblog{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.textblog a{
+    text-decoration:none;
+    background-color: rgb(233, 116, 6);
+    padding: 12px 70px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+.sectrecom{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contrecom{
+    width: 50%;
+    margin: auto;
+}
+.pie{
+    border-top: solid 3px rgb(233, 116, 6);
+    padding: 10px;
+}
+.contpie{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.separador1{
+    margin-top: 50px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    text-align: center;
+}
+.separador1 img{
+    width: 100px;
+    padding-top: 50px;
+}
+.separador1 b{
+    font-size: 30px;
+    border: solid; width: 300px;
+}
+.sectblog{
+    padding-bottom: 30px;
+}
+.plateamiento{
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.tablaplan{
+    width: 70%;
+    margin: auto;
+    padding-top: 0px;
+}
+.m8{
+    width: 450px;
+    padding: 20px;
+}
+.parrafo{
+    width: 68%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.central{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 50px;
+    text-align: center;
+}
